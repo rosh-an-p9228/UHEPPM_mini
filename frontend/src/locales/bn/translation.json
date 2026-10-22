@@ -1,0 +1,119 @@
+{
+  "brand": {
+    "name": "UrbanHeat AI",
+    "title": "নগর তাপ সঞ্চয়ন পূর্বাভাস এবং প্রতিরোধ মডেল",
+    "tagline": "পূর্বাভাস দিন। বুঝুন। নগর উত্তাপ প্রতিরোধ করুন।"
+  },
+  "nav": {
+    "landing": "হোম",
+    "dashboard": "ওভারভিউ ড্যাশবোর্ড",
+    "heatmap": "জিআইএস হিট ম্যাপ",
+    "weather": "লাইভ আবহাওয়া",
+    "satellite": "স্যাটেলাইট এলএসটি",
+    "greencover": "সবুজ আচ্ছাদন / এনডিভিআই",
+    "population": "জনসংখ্যা ও ঘনত্ব",
+    "traffic": "ট্র্যাফিক তাপ",
+    "pollution": "বায়ু মান",
+    "prediction": "এআই পূর্বাভাস",
+    "heatwave": "হিটওয়েভ পূর্বাভাস",
+    "explainable": "ব্যাখ্যামূলক এআই (SHAP)",
+    "recommendations": "প্রতিরোধ পরিকল্পনা",
+    "simulator": "নগর পরিকল্পনা সিমুলেটর",
+    "imageAnalysis": "ইমেজ হিট ভিশন",
+    "carbon": "কার্বন হ্রাস",
+    "vulnerability": "তাপ সংবেদনশীলতা",
+    "chatbot": "জলবায়ু এআই সহকারী",
+    "alerts": "সতর্কতা কেন্দ্র",
+    "apiStatus": "এপিআই স্থিতি",
+    "methodology": "পদ্ধতি"
+  },
+  "status": {
+    "live": "লাইভ সেন্সর ডেটা",
+    "satelliteObservation": "সর্বশেষ স্যাটেলাইট পর্যবেক্ষণ",
+    "populationEstimate": "জনসংখ্যা ঘনত্ব অনুমান (WorldPop)",
+    "trafficHeatEstimate": "ট্র্যাফিক তাপ অবদান অনুমান",
+    "modelScenario": "মডেল-ভিত্তিক দৃশ্যকল্প অনুমান",
+    "demoMode": "ডেমো ডেটা সক্রিয়",
+    "demoBanner": "এপিআই কি সংযুক্ত নেই। সিমুলেটেড ডেটা প্রদর্শিত হচ্ছে।"
+  },
+  "risk": {
+    "safe": "নিরাপদ",
+    "moderate": "মাঝারি",
+    "high": "উচ্চ",
+    "extreme": "চরম বিপজ্জনক",
+    "heatRiskIndex": "নগর তাপ ঝুঁকি সূচক",
+    "urbanHeatProfile": "নগর তাপ প্রোফাইল"
+  },
+  "metrics": {
+    "currentTemp": "বর্তমান তাপমাত্রা",
+    "predictedTemp": "পূর্বাভাসিত তাপমাত্রা",
+    "heatRisk": "তাপ ঝুঁকি সূচক",
+    "lst": "পৃষ্ঠীয় তাপমাত্রা (LST)",
+    "ndvi": "এনডিভিআই উদ্ভিদ সূচক",
+    "greenCover": "সবুজ এলাকা",
+    "trafficCongestion": "ট্র্যাফিক জ্যাম",
+    "airQuality": "বায়ু মান সূচক (AQI)",
+    "popDensity": "জনসংখ্যা ঘনত্ব",
+    "humidity": "আর্দ্রতা",
+    "wind": "বাতাসের গতি",
+    "uvIndex": "ইউভি সূচক",
+    "pressure": "বায়ুচাপ",
+    "precipitation": "বৃষ্টিপাত",
+    "co2Savings": "কার্বন হ্রাস"
+  },
+  "xai": {
+    "title": "এই এলাকা এত গরম কেন?",
+    "subtitle": "SHAP বৈশিষ্ট্য অবদান বিশ্লেষণ",
+    "explanationLabel": "এআই বৈজ্ঞানিক ব্যাখ্যা",
+    "factors": {
+      "surfaceTemp": "উচ্চ ভূপৃষ্ঠের তাপমাত্রা",
+      "lowVegetation": "স্বল্প বৃক্ষ আচ্ছাদন",
+      "traffic": "ভারী যানবাহন যানজট",
+      "builtUp": "কংক্রিট দালানকোঠা",
+      "lowWind": "স্বল্প বাতাস",
+      "aqi": "দূষণ কণা"
+    }
+  },
+  "simulator": {
+    "title": "নগর পরিকল্পনা মাইক্রোক্লাইমেট সিমুলেটর",
+    "subtitle": "হস্তক্ষেপ অনুকরণ করুন এবং তাপমাত্রা ও কার্বন হ্রাস দেখুন",
+    "currentCity": "বর্তমান শহর",
+    "simulatedCity": "সিমুলেটেড অবস্থা",
+    "treeCover": "বৃক্ষরোপণ বৃদ্ধি",
+    "coolRoofs": "কুল রুফ",
+    "solarShading": "ছায়াযুক্ত রাস্তা",
+    "trafficReduction": "ট্র্যাফিক নিয়ন্ত্রণ",
+    "greenRoofs": "সবুজ ছাদ",
+    "waterFeatures": "জলাধার ও ফোয়ারা",
+    "deltaRisk": "ঝুঁকি হ্রাস",
+    "deltaTemp": "শীতলীকরণ অনুমান",
+    "deltaCarbon": "বার্ষিক কার্বন হ্রাস"
+  },
+  "imageAnalysis": {
+    "title": "কম্পিউটার ভিশন হিট এক্সপোজার বিশ্লেষক",
+    "subtitle": "রাস্তার ছবি থেকে পৃষ্ঠ উপাদান ও ছায়ার বিশ্লেষণ",
+    "uploadPrompt": "রাস্তা বা নগর এলাকার ছবি আপলোড করুন",
+    "disclaimer": "নোট: আরজিবি ক্যামেরা সরাসরি তাপমাত্রা পরিমাপ করে না।",
+    "visualExposureScore": "ভিজ্যুয়াল হিট স্কোর",
+    "treeCanopy": "গাছপালা",
+    "builtUp": "দালানকোঠা",
+    "asphaltRoad": "পিচ রাস্তা",
+    "shade": "ছায়া",
+    "openSpace": "খোলা জায়গা"
+  },
+  "chatbot": {
+    "title": "নগর জলবায়ু এআই সহকারী",
+    "subtitle": "তাপমাত্রা ও সমাধান সম্পর্কে জিজ্ঞাসা করুন",
+    "placeholder": "যেমন: 'নেরুল এলাকা কেন এত গরম?'",
+    "send": "পাঠান",
+    "contextHeader": "সক্রিয় সেন্সর তথ্য"
+  },
+  "actions": {
+    "selectLocation": "এলাকা নির্বাচন করুন",
+    "applyIntervention": "সিমুলেশন প্রয়োগ করুন",
+    "reset": "রিসেট",
+    "exportReport": "রিপোর্ট ডাউনলোড",
+    "viewDetails": "বিস্তারিত দেখুন",
+    "close": "বন্ধ করুন"
+  }
+}

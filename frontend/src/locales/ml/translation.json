@@ -1,0 +1,119 @@
+{
+  "brand": {
+    "name": "UrbanHeat AI",
+    "title": "നഗര താപ കെണി പ്രവചനവും പ്രതിരോധ മാതൃകയും",
+    "tagline": "പ്രവചിക്കുക. മനസ്സിലാക്കുക. നഗര താപം തടയുക."
+  },
+  "nav": {
+    "landing": "ഹോം",
+    "dashboard": "ഡാഷ്‌ബോർഡ്",
+    "heatmap": "GIS ഹീറ്റ് മാപ്പ്",
+    "weather": "തത്സമയ കാലാവസ്ഥ",
+    "satellite": "സാറ്റലൈറ്റ് LST",
+    "greencover": "ഹരിത ആവരണം / NDVI",
+    "population": "ജനസാന്ദ്രത",
+    "traffic": "ട്രാഫിക് താപം",
+    "pollution": "വായു ഗുണനിലവാരം",
+    "prediction": "AI പ്രവചനം",
+    "heatwave": "ഉഷ്ണതരംഗ പ്രവചനം",
+    "explainable": "വിശദീകരണാത്മക AI (SHAP)",
+    "recommendations": "പ്രതിരോധ നടപടികൾ",
+    "simulator": "നഗരാസൂത്രണ സിമുലേറ്റർ",
+    "imageAnalysis": "ഇമേജ് ഹീറ്റ് വിഷൻ",
+    "carbon": "കാർബൺ കുറയ്ക്കൽ",
+    "vulnerability": "താപ ദുർബലത",
+    "chatbot": "കാലാവസ്ഥ AI അസിസ്റ്റന്റ്",
+    "alerts": "മുന്നറിയിപ്പ് കേന്ദ്രം",
+    "apiStatus": "API നില",
+    "methodology": "രീതിശാസ്ത്രം"
+  },
+  "status": {
+    "live": "തത്സമയ സ്ട്രീം",
+    "satelliteObservation": "ഏറ്റവും പുതിയ സാറ്റലൈറ്റ് നിരീക്ഷണം",
+    "populationEstimate": "ജനസാന്ദ്രത എസ്റ്റിമേറ്റ്",
+    "trafficHeatEstimate": "ട്രാഫിക് താപ സംഭാവന എസ്റ്റിമേറ്റ്",
+    "modelScenario": "മോഡൽ അധിഷ്ഠിത എസ്റ്റിമേറ്റ്",
+    "demoMode": "ഡെമോ മോഡ് സജീവം",
+    "demoBanner": "API കീകൾ ലഭ്യമല്ല. സിമുലേറ്റഡ് ഡാറ്റ കാണിക്കുന്നു."
+  },
+  "risk": {
+    "safe": "സുരക്ഷിതം",
+    "moderate": "മിതമായത്",
+    "high": "ഉയർന്നത്",
+    "extreme": "അത്യന്തം അപകടകരം",
+    "heatRiskIndex": "താപ അപകട സൂചിക",
+    "urbanHeatProfile": "നഗര താപ പ്രൊഫൈൽ"
+  },
+  "metrics": {
+    "currentTemp": "നിലവിലെ താപനില",
+    "predictedTemp": "പ്രവചിച്ച താപനില",
+    "heatRisk": "താപ അപകട സൂചിക",
+    "lst": "ഉപരിതല താപനില (LST)",
+    "ndvi": "സസ്യ സൂചിക (NDVI)",
+    "greenCover": "ഹരിത ആവരണം",
+    "trafficCongestion": "ട്രാഫിക് കുരുക്ക്",
+    "airQuality": "വായു ഗുണനിലവാരം (AQI)",
+    "popDensity": "ജനസാന്ദ്രത",
+    "humidity": "ആർദ്രത",
+    "wind": "കാറ്റിന്റെ വേഗത",
+    "uvIndex": "UV സൂചിക",
+    "pressure": "മർദ്ദം",
+    "precipitation": "മഴ",
+    "co2Savings": "കാർബൺ കുറയ്ക്കൽ"
+  },
+  "xai": {
+    "title": "എന്തുകൊണ്ടാണ് ഈ പ്രദേശം ചൂടായിരിക്കുന്നത്?",
+    "subtitle": "SHAP ഫീച്ചർ സംഭാവന വിശകലനം",
+    "explanationLabel": "AI ശാസ്ത്രീയ വിശദീകരണം",
+    "factors": {
+      "surfaceTemp": "ഉയർന്ന ഉപരിതല താപനില",
+      "lowVegetation": "കുറഞ്ഞ മരങ്ങൾ / സസ്യങ്ങൾ",
+      "traffic": "കനത്ത ട്രാഫിക് കുരുക്ക്",
+      "builtUp": "കോൺക്രീറ്റ് കെട്ടിടങ്ങൾ",
+      "lowWind": "കുറഞ്ഞ കാറ്റ്",
+      "aqi": "മലിനീകരണ കണികകൾ"
+    }
+  },
+  "simulator": {
+    "title": "നഗരാസൂത്രണ മൈക്രോക്ലൈമറ്റ് സിമുലേറ്റർ",
+    "subtitle": "പദ്ധതികൾ പരീക്ഷിച്ച് താപനിലയിലും കാർബണിലുമുള്ള വ്യത്യാസം കാണുക",
+    "currentCity": "നിലവിലെ നഗരം",
+    "simulatedCity": "സിമുലേറ്റഡ് നഗരം",
+    "treeCover": "മരങ്ങൾ നടൽ",
+    "coolRoofs": "കൂൾ റൂഫുകൾ",
+    "solarShading": "തണലുള്ള പാതകൾ",
+    "trafficReduction": "ട്രാഫിക് കുറയ്ക്കൽ",
+    "greenRoofs": "പച്ച മേൽക്കൂരകൾ",
+    "waterFeatures": "ജലധാരകൾ",
+    "deltaRisk": "അപകടസാധ്യത കുറയ്ക്കൽ",
+    "deltaTemp": "തണുപ്പിക്കൽ എസ്റ്റിമേറ്റ്",
+    "deltaCarbon": "വാർഷിക കാർബൺ കുറവ്"
+  },
+  "imageAnalysis": {
+    "title": "കമ്പ്യൂട്ടർ വിഷൻ ഹീറ്റ് എക്സ്പോഷർ അനലൈസർ",
+    "subtitle": "റോഡ് ചിത്രങ്ങളിൽ നിന്ന് ഉപരിതലവും തണലും വിശകലനം ചെയ്യുക",
+    "uploadPrompt": "തെരുവിന്റെ ചിത്രം അപ്‌ലോഡ് ചെയ്യുക",
+    "disclaimer": "ശ്രദ്ധിക്കുക: ക്യാമറ ഉപരിതല ഘടനയാണ് വിശകലനം ചെയ്യുന്നത്, താപനില നേരിട്ട് അളക്കുന്നില്ല.",
+    "visualExposureScore": "വിഷ്വൽ ഹീറ്റ് സ്കോർ",
+    "treeCanopy": "മരങ്ങൾ",
+    "builtUp": "കെട്ടിടങ്ങൾ",
+    "asphaltRoad": "റോഡുകൾ",
+    "shade": "തണൽ",
+    "openSpace": "തുറന്ന സ്ഥലം"
+  },
+  "chatbot": {
+    "title": "നഗര കാലാവസ്ഥ AI അസിസ്റ്റന്റ്",
+    "subtitle": "താപനിലയെയും പരിഹാരങ്ങളെയും കുറിച്ച് ചോദിക്കുക",
+    "placeholder": "ഉദാ: 'നെരൂളിൽ ചൂട് കൂടാൻ കാരണം എന്താണ്?'",
+    "send": "അയക്കുക",
+    "contextHeader": "സെൻസർ വിവരങ്ങൾ"
+  },
+  "actions": {
+    "selectLocation": "സ്ഥലം തിരഞ്ഞെടുക്കുക",
+    "applyIntervention": "സിമുലേഷൻ പ്രയോഗിക്കുക",
+    "reset": "റീസെറ്റ്",
+    "exportReport": "റിപ്പോർട്ട് ഡൗൺലോഡ്",
+    "viewDetails": "വിശദാംശങ്ങൾ കാണുക",
+    "close": "അടയ്ക്കുക"
+  }
+}

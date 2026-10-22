@@ -1,0 +1,119 @@
+{
+  "brand": {
+    "name": "UrbanHeat AI",
+    "title": "शहरी उष्णता संचयन अंदाज आणि प्रतिबंध मॉडेल",
+    "tagline": "अंदाज लावा. समजून घ्या. शहरी उष्णता रोखा."
+  },
+  "nav": {
+    "landing": "मुख्यपृष्ठ",
+    "dashboard": "डॅशबोर्ड",
+    "heatmap": "GIS हीट मॅप",
+    "weather": "थेट हवामान",
+    "satellite": "उपग्रह LST",
+    "greencover": "हरित आच्छादन / NDVI",
+    "population": "लोकसंख्या आणि इमारती",
+    "traffic": "वाहतूक उष्णता",
+    "pollution": "हवेची गुणवत्ता",
+    "prediction": "AI अंदाज",
+    "heatwave": "उष्णतेची लाट अंदाज",
+    "explainable": "स्पष्टीकरणात्मक AI (SHAP)",
+    "recommendations": "प्रतिबंधात्मक उपाय",
+    "simulator": "नगर नियोजन सिम्युलेटर",
+    "imageAnalysis": "प्रतिमा हीट व्हिजन",
+    "carbon": "कार्बन कपात",
+    "vulnerability": "उष्णता संवेदनशीलता",
+    "chatbot": "हवामान AI सहाय्यक",
+    "alerts": "इशारा केंद्र",
+    "apiStatus": "API स्थिती",
+    "methodology": "कार्यपद्धती"
+  },
+  "status": {
+    "live": "थेट प्रवाह",
+    "satelliteObservation": "नवीनतम उपग्रह निरीक्षण",
+    "populationEstimate": "लोकसंख्या घनता अंदाज (WorldPop)",
+    "trafficHeatEstimate": "अंदाजित वाहतूक उष्णता योगदान",
+    "modelScenario": "मॉडेल-आधारित परिस्थिती अंदाज",
+    "demoMode": "डेमो / सिम्युलेटेड डेटा सक्रिय",
+    "demoBanner": "API की कॉन्फिगर केलेली नाही. नवी मुंबई व मुंबई क्षेत्रासाठी सिम्युलेटेड डेटा वापरला जात आहे."
+  },
+  "risk": {
+    "safe": "सुरक्षित",
+    "moderate": "मध्यम",
+    "high": "उच्च",
+    "extreme": "अतिउच्च",
+    "heatRiskIndex": "शहरी उष्णता जोखीम निर्देशांक",
+    "urbanHeatProfile": "शहरी उष्णता प्रोफाइल"
+  },
+  "metrics": {
+    "currentTemp": "सध्याचे तापमान",
+    "predictedTemp": "अंदाजित तापमान",
+    "heatRisk": "उष्णता जोखीम निर्देशांक",
+    "lst": "पृष्ठभाग तापमान (LST)",
+    "ndvi": "NDVI वनस्पती निर्देशांक",
+    "greenCover": "हिरवे आच्छादन",
+    "trafficCongestion": "वाहतूक कोंडी",
+    "airQuality": "हवा गुणवत्ता निर्देशांक (AQI)",
+    "popDensity": "लोकसंख्या घनता",
+    "humidity": "आर्द्रता",
+    "wind": "वाऱ्याचा वेग",
+    "uvIndex": "UV निर्देशांक",
+    "pressure": "हवेचा दाब",
+    "precipitation": "पाऊस",
+    "co2Savings": "अंदाजित CO2 कपात"
+  },
+  "xai": {
+    "title": "हा परिसर उष्ण का आहे?",
+    "subtitle": "SHAP वैशिष्ट्य योगदान विश्लेषण",
+    "explanationLabel": "AI वैज्ञानिक स्पष्टीकरण",
+    "factors": {
+      "surfaceTemp": "उच्च पृष्ठभाग तापमान (LST)",
+      "lowVegetation": "कमी वनस्पती आच्छादन",
+      "traffic": "जास्त वाहतूक कोंडी",
+      "builtUp": "दाट काँक्रीट इमारती",
+      "lowWind": "कमी वाऱ्याचा वेग",
+      "aqi": "प्रदूषण कणांचे प्रमाण"
+    }
+  },
+  "simulator": {
+    "title": "नगर नियोजन मायक्रोक्लायमेट सिम्युलेटर",
+    "subtitle": "शहरी उपाययोजनांचे अनुकरण करा आणि तापमान व कार्बन प्रभाव तपासा",
+    "currentCity": "सध्याचे शहर",
+    "simulatedCity": "सिम्युलेटेड शहर",
+    "treeCover": "झाडे लावणे वाढ",
+    "coolRoofs": "कूल रूफ्स",
+    "solarShading": "सावलीदार रस्ते",
+    "trafficReduction": "वाहतूक नियंत्रण",
+    "greenRoofs": "हिरवे छप्पर",
+    "waterFeatures": "पाण्याचे कारंजे व फवारे",
+    "deltaRisk": "उष्णता जोखीम घट",
+    "deltaTemp": "अंदाजित थंडावा",
+    "deltaCarbon": "वार्षिक कार्बन घट"
+  },
+  "imageAnalysis": {
+    "title": "संगणक दृष्टी उष्णता विश्लेषक",
+    "subtitle": "रस्त्यांच्या छायाचित्रावरून पृष्ठभाग आणि सावलीचे विश्लेषण",
+    "uploadPrompt": "रस्ता किंवा शहरी भागाचा फोटो अपलोड करा",
+    "disclaimer": "सूचना: कॅमेरा पृष्ठभागाचा अंदाज लावतो, थेट तापमान मोजत नाही.",
+    "visualExposureScore": "दृश्य उष्णता जोखीम स्कोर",
+    "treeCanopy": "झाडांचे आच्छादन",
+    "builtUp": "इमारती व काँक्रीट",
+    "asphaltRoad": "डांबरी रस्ते",
+    "shade": "सावलीचा भाग",
+    "openSpace": "मोकळी जागा"
+  },
+  "chatbot": {
+    "title": "शहरी हवामान AI सहाय्यक",
+    "subtitle": "तापमान आणि उपाययोजनांबाबत प्रश्न विचारा",
+    "placeholder": "उदा: 'नेरूळ बेलापूरपेक्षा जास्त गरम का आहे?'",
+    "send": "पाठवा",
+    "contextHeader": "सक्रिय सेन्सर माहिती"
+  },
+  "actions": {
+    "selectLocation": "परिसर निवडा",
+    "applyIntervention": "सिम्युलेशन लागू करा",
+    "reset": "रीसेट",
+    "exportReport": "अहवाल डाउनलोड करा",
+    "viewDetails": "तपशील पहा",
+    "close": "बंद करा"
+  }
+}

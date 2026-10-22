@@ -1,0 +1,119 @@
+{
+  "brand": {
+    "name": "UrbanHeat AI",
+    "title": "పట్టణ ఉష్ణోగ్రత నిలుపుదల అంచనా మరియు నివారణ నమూనా",
+    "tagline": "అంచనా వేయండి. అర్థం చేసుకోండి. పట్టణ వేడిని నివారించండి."
+  },
+  "nav": {
+    "landing": "హోమ్‌",
+    "dashboard": "డాష్‌బోర్డ్",
+    "heatmap": "GIS హీట్ మ్యాప్",
+    "weather": "లైవ్ వాతావరణం",
+    "satellite": "శాటిలైట్ LST",
+    "greencover": "పచ్చదనం / NDVI",
+    "population": "జనాభా సాంద్రత",
+    "traffic": "ట్రాఫిక్ వేడి",
+    "pollution": "గాలి నాణ్యత",
+    "prediction": "AI అంచనా",
+    "heatwave": "వడగాల్పుల అంచనా",
+    "explainable": "వివరణాత్మక AI (SHAP)",
+    "recommendations": "నివారణ చర్యలు",
+    "simulator": "పట్టణ ప్రణాళిక సిమ్యులేటర్",
+    "imageAnalysis": "ఇమేజ్ హీట్ విజన్",
+    "carbon": "కార్బన్ తగ్గింపు",
+    "vulnerability": "వేడి దుర్బలత్వం",
+    "chatbot": "క్లైమేట్ AI అసిస్టెంట్",
+    "alerts": "హెచ్చరిక కేంద్రం",
+    "apiStatus": "API స్థితి",
+    "methodology": "పద్ధతి"
+  },
+  "status": {
+    "live": "లైవ్ డేటా",
+    "satelliteObservation": "తాజా శాటిలైట్ పరిశీలన",
+    "populationEstimate": "జనాభా సాంద్రత అంచనా",
+    "trafficHeatEstimate": "అంచనా వేసిన ట్రాఫిక్ వేడి",
+    "modelScenario": "మోడల్ ఆధారిత అంచనా",
+    "demoMode": "డెమో మోడ్ యాక్టివ్",
+    "demoBanner": "API కీలు లేవు. సిమ్యులేటెడ్ డేటా చూపబడుతోంది."
+  },
+  "risk": {
+    "safe": "సురక్షితం",
+    "moderate": "మధ్యస్థం",
+    "high": "అధికం",
+    "extreme": "తీవ్ర ప్రమాదకరం",
+    "heatRiskIndex": "హీట్ రిస్క్ ఇండెక్స్",
+    "urbanHeatProfile": "పట్టణ వేడి ప్రొఫైల్"
+  },
+  "metrics": {
+    "currentTemp": "ప్రస్తుత ఉష్ణోగ్రత",
+    "predictedTemp": "అంచనా వేసిన ఉష్ణోగ్రత",
+    "heatRisk": "హీట్ రిస్క్ ఇండెక్స్",
+    "lst": "ఉపరితల ఉష్ణోగ్రత (LST)",
+    "ndvi": "NDVI పచ్చదనం సూచిక",
+    "greenCover": "పచ్చదనం కవరేజ్",
+    "trafficCongestion": "ట్రాఫిక్ రద్దీ",
+    "airQuality": "AQI గాలి నాణ్యత",
+    "popDensity": "జనాభా సాంద్రత",
+    "humidity": "తేమ",
+    "wind": "గాలి వేగం",
+    "uvIndex": "UV ఇండెక్స్",
+    "pressure": "పీడనం",
+    "precipitation": "వర్షపాతం",
+    "co2Savings": "కార్బన్ తగ్గింపు"
+  },
+  "xai": {
+    "title": "ఈ ప్రాంతం ఎందుకు వేడిగా ఉంది?",
+    "subtitle": "SHAP అంశాల విశ్లేషణ",
+    "explanationLabel": "AI శాస్త్రీయ వివరణ",
+    "factors": {
+      "surfaceTemp": "ఎక్కువ ఉపరితల వేడి",
+      "lowVegetation": "తక్కువ పచ్చదనం / చెట్లు లేకపోవడం",
+      "traffic": "ఎక్కువ ట్రాఫిక్ రద్దీ",
+      "builtUp": "కాంక్రీట్ భవనాలు",
+      "lowWind": "తక్కువ గాలి",
+      "aqi": "కాలుష్య కణాలు"
+    }
+  },
+  "simulator": {
+    "title": "పట్టణ ప్రణాళిక మైక్రోక్లైమేట్ సిమ్యులేటర్",
+    "subtitle": "మార్పులను పరీక్షించండి మరియు ఉష్ణోగ్రత, కార్బన్ తగ్గింపులను గమనించండి",
+    "currentCity": "ప్రస్తుత నగరం",
+    "simulatedCity": "సిమ్యులేటెడ్ నగరం",
+    "treeCover": "మొక్కల పెంపకం",
+    "coolRoofs": "కూల్ రూఫ్స్",
+    "solarShading": "నీడ మార్గాలు",
+    "trafficReduction": "ట్రాఫిక్ తగ్గింపు",
+    "greenRoofs": "గ్రీన్ రూఫ్స్",
+    "waterFeatures": "నీటి ఫౌంటెన్లు",
+    "deltaRisk": "రిస్క్ తగ్గింపు",
+    "deltaTemp": "శీతలీకరణ అంచనా",
+    "deltaCarbon": "వార్షిక కార్బన్ తగ్గింపు"
+  },
+  "imageAnalysis": {
+    "title": "కంప్యూటర్ విజన్ హీట్ ఎక్స్‌పోజర్ విశ్లేషణ",
+    "subtitle": "రహదారి చిత్రాల నుండి ఉపరితలం మరియు నీడ విశ్లేషణ",
+    "uploadPrompt": "వీధి లేదా పట్టణ ప్రాంత చిత్రం అప్‌లోడ్ చేయండి",
+    "disclaimer": "గమనిక: కెమెరా ఉపరితలాన్ని అంచనా వేస్తుంది, నేరుగా ఉష్ణోగ్రతను కొలవదు.",
+    "visualExposureScore": "విజువల్ హీట్ స్కోర్",
+    "treeCanopy": "చెట్లు",
+    "builtUp": "భవనాలు",
+    "asphaltRoad": "తారు రోడ్లు",
+    "shade": "నీడ",
+    "openSpace": "బహిరంగ ప్రదేశం"
+  },
+  "chatbot": {
+    "title": "పట్టణ క్లైమేట్ AI అసిస్టెంట్",
+    "subtitle": "ఉష్ణోగ్రత మరియు నివారణల గురించి అడగండి",
+    "placeholder": "ఉదాహరణ: 'నెరూల్ ఎందుకు వేడిగా ఉంది?'",
+    "send": "పంపు",
+    "contextHeader": "సెన్సార్ సమాచారం"
+  },
+  "actions": {
+    "selectLocation": "ప్రాంతాన్ని ఎంచుకోండి",
+    "applyIntervention": "సిమ్యులేషన్ వర్తింపజేయి",
+    "reset": "రీసెట్",
+    "exportReport": "రిపోర్ట్ డౌన్‌లోడ్",
+    "viewDetails": "వివరాలు చూడండి",
+    "close": "మూసివేయి"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "brand": {
+    "name": "UrbanHeat AI",
+    "title": "ನಗರ ಶಾಖ ಸೆರೆಹಿಡಿಯುವಿಕೆ ಮುನ್ಸೂಚನೆ ಮತ್ತು ತಡೆಗಟ್ಟುವಿಕೆ ಮಾದರಿ",
+    "tagline": "ಊಹಿಸಿ. ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ. ನಗರದ ಶಾಖವನ್ನು ತಡೆಯಿರಿ."
+  },
+  "nav": {
+    "landing": "ಮುಖಪುಟ",
+    "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "heatmap": "GIS ಹೀಟ್ ನಕ್ಷೆ",
+    "weather": "ಲೈವ್ ಹವಾಮಾನ",
+    "satellite": "ಉಪಗ್ರಹ LST",
+    "greencover": "ಹಸಿರು ಹೊದಿಕೆ / NDVI",
+    "population": "ಜನಸಂಖ್ಯಾ ಸಾಂದ್ರತೆ",
+    "traffic": "ಟ್ರಾಫಿಕ್ ಶಾಖ",
+    "pollution": "ವಾಯು ಗುಣಮಟ್ಟ",
+    "prediction": "AI ಮುನ್ಸೂಚನೆ",
+    "heatwave": "ಶಾಖದ ಅಲೆ ಮುನ್ಸೂಚನೆ",
+    "explainable": "ವಿವರಣಾತ್ಮಕ AI (SHAP)",
+    "recommendations": "ತಡೆಗಟ್ಟುವ ಕ್ರಮಗಳು",
+    "simulator": "ನಗರ ಯೋಜನೆ ಸಿಮ್ಯುಲೇಟರ್",
+    "imageAnalysis": "ಇಮೇಜ್ ಹೀಟ್ ವಿಷನ್",
+    "carbon": "ಕಾರ್ಬನ್ ಕಡಿತ",
+    "vulnerability": "ಶಾಖದ ದುರ್ಬಲತೆ",
+    "chatbot": "ಹವಾಮಾನ AI ಸಹಾಯಕ",
+    "alerts": "ಎಚ್ಚರಿಕೆ ಕೇಂದ್ರ",
+    "apiStatus": "API ಸ್ಥಿತಿ",
+    "methodology": "ವಿಧಾನಶಾಸ್ತ್ರ"
+  },
+  "status": {
+    "live": "ಲೈವ್ ಸ್ಟ್ರೀಮ್",
+    "satelliteObservation": "ಇತ್ತೀಚಿನ ಉಪಗ್ರಹ ವೀಕ್ಷಣೆ",
+    "populationEstimate": "ಜನಸಂಖ್ಯಾ ಸಾಂದ್ರತೆ ಅಂದಾಜು",
+    "trafficHeatEstimate": "ಅಂದಾಜು ಟ್ರಾಫಿಕ್ ಶಾಖ ಕೊಡುಗೆ",
+    "modelScenario": "ಮಾದರಿ ಆಧಾರಿತ ಅಂದಾಜು",
+    "demoMode": "ಡೆಮೊ ಮೋಡ್ ಸಕ್ರಿಯ",
+    "demoBanner": "API ಕೀಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಲಾಗಿಲ್ಲ. ಸಿಮ್ಯುಲೇಟೆಡ್ ಡೇಟಾವನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತಿದೆ."
+  },
+  "risk": {
+    "safe": "ಸುರಕ್ಷಿತ",
+    "moderate": "ಮಧ್ಯಮ",
+    "high": "ಹೆಚ್ಚು",
+    "extreme": "ಅತ್ಯಂತ ಅಪಾಯಕಾರಿ",
+    "heatRiskIndex": "ಶಾಖದ ಅಪಾಯ ಸೂಚ್ಯಂಕ",
+    "urbanHeatProfile": "ನಗರ ಶಾಖ ಪ್ರೊಫೈಲ್"
+  },
+  "metrics": {
+    "currentTemp": "ಪ್ರಸ್ತುತ ತಾಪಮಾನ",
+    "predictedTemp": "ಅಂದಾಜು ತಾಪಮಾನ",
+    "heatRisk": "ಶಾಖ ಅಪಾಯ ಸೂಚ್ಯಂಕ",
+    "lst": "ಮೇಲ್ಮೈ ತಾಪಮಾನ (LST)",
+    "ndvi": "ಸಸ್ಯವರ್ಗ ಸೂಚ್ಯಂಕ (NDVI)",
+    "greenCover": "ಹಸಿರು ಹೊದಿಕೆ",
+    "trafficCongestion": "ಟ್ರಾಫಿಕ್ ದಟ್ಟಣೆ",
+    "airQuality": "ವಾಯು ಗುಣಮಟ್ಟ (AQI)",
+    "popDensity": "ಜನಸಂಖ್ಯಾ ಸಾಂದ್ರತೆ",
+    "humidity": "ಆರ್ದ್ರತೆ",
+    "wind": "ಗಾಳಿಯ ವೇಗ",
+    "uvIndex": "UV ಸೂಚ್ಯಂಕ",
+    "pressure": "ವಾತಾವರಣದ ಒತ್ತಡ",
+    "precipitation": "ಮಳೆ",
+    "co2Savings": "ಕಾರ್ಬನ್ ಕಡಿತ"
+  },
+  "xai": {
+    "title": "ಈ ಪ್ರದೇಶ ಏಕೆ ಹೆಚ್ಚು ಬಿಸಿಯಾಗಿದೆ?",
+    "subtitle": "SHAP ಅಂಶ ಕೊಡುಗೆ ವಿಶ್ಲೇಷಣೆ",
+    "explanationLabel": "AI ವೈಜ್ಞಾನಿಕ ವಿವರಣೆ",
+    "factors": {
+      "surfaceTemp": "ಹೆಚ್ಚಿನ ಮೇಲ್ಮೈ ತಾಪಮಾನ",
+      "lowVegetation": "ಕಡಿಮೆ ಸಸ್ಯವರ್ಗ / ಮರಗಳ ಕೊರತೆ",
+      "traffic": "ಭಾರೀ ವಾಹನ ದಟ್ಟಣೆ",
+      "builtUp": "ಕಾಂಕ್ರೀಟ್ ಕಟ್ಟಡಗಳು",
+      "lowWind": "ಕಡಿಮೆ ಗಾಳಿ",
+      "aqi": "ಮಾಲಿನ್ಯ ಕಣಗಳು"
+    }
+  },
+  "simulator": {
+    "title": "ನಗರ ಯೋಜನೆ ಮೈಕ್ರೋಕ್ಲೈಮೇಟ್ ಸಿಮ್ಯುಲೇಟರ್",
+    "subtitle": "ಹಸ್ತಕ್ಷೇಪಗಳನ್ನು ಅನುಕರಿಸಿ ಮತ್ತು ತಾಪಮಾನ ಹಾಗೂ ಇಂಗಾಲದ ಕಡಿತವನ್ನು ಪರಿಶೀಲಿಸಿ",
+    "currentCity": "ಪ್ರಸ್ತುತ ನಗರ",
+    "simulatedCity": "ಸಿಮ್ಯುಲೇಟೆಡ್ ನಗರ",
+    "treeCover": "ಮರ ನೆಡುವಿಕೆ ಹೆಚ್ಚಳ",
+    "coolRoofs": "ಕೂಲ್ ರೂಫ್ಸ್",
+    "solarShading": "ನೆರಳಿನ ರಸ್ತೆಗಳು",
+    "trafficReduction": "ಟ್ರಾಫಿಕ್ ಕಡಿತ",
+    "greenRoofs": "ಹಸಿರು ಛಾವಣಿಗಳು",
+    "waterFeatures": "ನೀರಿನ ಕಾರಂಜಿಗಳು",
+    "deltaRisk": "ಅಪಾಯ ಕಡಿತ",
+    "deltaTemp": "ತಂಪಾಗಿಸುವ ಅಂದಾಜು",
+    "deltaCarbon": "ವಾರ್ಷಿಕ ಇಂಗಾಲದ ಕಡಿತ"
+  },
+  "imageAnalysis": {
+    "title": "ಕಂಪ್ಯೂಟರ್ ದೃಷ್ಟಿ ಶಾಖ ಒಡ್ಡಿಕೊಳ್ಳುವಿಕೆ ವಿಶ್ಲೇಷಕ",
+    "subtitle": "ರಸ್ತೆ ಚಿತ್ರಗಳಿಂದ ಮೇಲ್ಮೈ ಮತ್ತು ನೆರಳಿನ ವಿಶ್ಲೇಷಣೆ",
+    "uploadPrompt": "ರಸ್ತೆ ಅಥವಾ ನಗರ ಚಿತ್ರವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+    "disclaimer": "ಗಮನಿಸಿ: ಕ್ಯಾಮೆರಾ ಮೇಲ್ಮೈಯನ್ನು ಅಂದಾಜಿಸುತ್ತದೆ, ತಾಪಮಾನವನ್ನು ನೇರವಾಗಿ ಅಳೆಯುವುದಿಲ್ಲ.",
+    "visualExposureScore": "ದೃಶ್ಯ ಶಾಖ ಸ್ಕೋರ್",
+    "treeCanopy": "ಮರಗಳ ಹೊದಿಕೆ",
+    "builtUp": "ಕಟ್ಟಡಗಳು",
+    "asphaltRoad": "ಡಾಂಬರು ರಸ್ತೆಗಳು",
+    "shade": "ನೆರಳು",
+    "openSpace": "ತೆರೆದ ಸ್ಥಳ"
+  },
+  "chatbot": {
+    "title": "ನಗರ ಹವಾಮಾನ AI ಸಹಾಯಕ",
+    "subtitle": "ತಾಪಮಾನ ಮತ್ತು ಪರಿಹಾರಗಳ ಬಗ್ಗೆ ಕೇಳಿ",
+    "placeholder": "ಉದಾ: 'ನೆರೂಲ್ ಏಕೆ ಹೆಚ್ಚು ಬಿಸಿಯಾಗಿದೆ?'",
+    "send": "ಕಳುಹಿಸಿ",
+    "contextHeader": "ಸಂವೇದಕ ಮಾಹಿತಿ"
+  },
+  "actions": {
+    "selectLocation": "ಸ್ಥಳವನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+    "applyIntervention": "ಸಿಮ್ಯುಲೇಶನ್ ಅನ್ವಯಿಸಿ",
+    "reset": "ರೀಸೆಟ್",
+    "exportReport": "ವರದಿ ಡೌನ್‌ಲೋಡ್",
+    "viewDetails": "ವಿವರಗಳನ್ನು ನೋಡಿ",
+    "close": "ಮುಚ್ಚಿ"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "brand": {
+    "name": "UrbanHeat AI",
+    "title": "શહેરી ગરમી આગાહી અને નિવારણ મોડેલ",
+    "tagline": "આગાહી કરો. સમજો. શહેરી ગરમી અટકાવો."
+  },
+  "nav": {
+    "landing": "મુખ્ય પૃષ્ઠ",
+    "dashboard": "ડેશબોર્ડ",
+    "heatmap": "GIS હીટ મેપ",
+    "weather": "લાઇવ હવામાન",
+    "satellite": "સેટેલાઇટ LST",
+    "greencover": "ગ્રીન કવર / NDVI",
+    "population": "વસ્તી અને બાંધકામ",
+    "traffic": "ટ્રાફિક ગરમી",
+    "pollution": "હવાની ગુણવત્તા",
+    "prediction": "AI આગાહી",
+    "heatwave": "હીટવેવ આગાહી",
+    "explainable": "સમજૂતીત્મક AI (SHAP)",
+    "recommendations": "નિવારક પગલાં",
+    "simulator": "શહેરી આયોજન સિમ્યુલેટર",
+    "imageAnalysis": "ઇમેજ હીટ વિઝન",
+    "carbon": "કાર્બન ઘટાડો",
+    "vulnerability": "ગરમી સંવેદનશીલતા",
+    "chatbot": "ક્લાઇમેટ AI સહાયક",
+    "alerts": "ચેતવણી કેન્દ્ર",
+    "apiStatus": "API સ્થિતિ",
+    "methodology": "કાર્યપદ્ધતિ"
+  },
+  "status": {
+    "live": "લાઇવ ડેટા",
+    "satelliteObservation": "તાજેતરનું ઉપગ્રહ અવલોકન",
+    "populationEstimate": "વસ્તી ગીચતા અંદાજ",
+    "trafficHeatEstimate": "અંદાજિત ટ્રાફિક ગરમી યોગદાન",
+    "modelScenario": "મોડલ-આધારિત અંદાજ",
+    "demoMode": "ડેમો ડેટા સક્રિય",
+    "demoBanner": "API કી ગોઠવેલ નથી. મુંબઈ/નવી મુંબઈ માટે સિમ્યુલેટેડ ડેટા દર્શાવવામાં આવી રહ્યો છે."
+  },
+  "risk": {
+    "safe": "સુરક્ષિત",
+    "moderate": "મધ્યમ",
+    "high": "ઉચ્ચ",
+    "extreme": "અતિ ગંભીર",
+    "heatRiskIndex": "શહેરી હીટ રિસ્ક ઇન્ડેક્સ",
+    "urbanHeatProfile": "શહેરી ગરમી પ્રોફાઇલ"
+  },
+  "metrics": {
+    "currentTemp": "વર્તમાન તાપમાન",
+    "predictedTemp": "અંદાજિત તાપમાન",
+    "heatRisk": "હીટ રિસ્ક ઇન્ડેક્સ",
+    "lst": "સપાટી તાપમાન (LST)",
+    "ndvi": "વનસ્પતિ ઇન્ડેક્સ (NDVI)",
+    "greenCover": "ગ્રીન કવર",
+    "trafficCongestion": "ટ્રાફિક જામ",
+    "airQuality": "AQI હવા ગુણવત્તા",
+    "popDensity": "વસ્તી ગીચતા",
+    "humidity": "ભેજ",
+    "wind": "પવનની ગતિ",
+    "uvIndex": "UV ઇન્ડેક્સ",
+    "pressure": "હવાનું દબાણ",
+    "precipitation": "વરસાદ",
+    "co2Savings": "અંદાજિત CO2 ઘટાડો"
+  },
+  "xai": {
+    "title": "આ વિસ્તાર કેમ ગરમ છે?",
+    "subtitle": "SHAP સ્થાનિક પરિબળ યોગદાન",
+    "explanationLabel": "AI વૈજ્ઞાનિક સમજૂતી",
+    "factors": {
+      "surfaceTemp": "ઉચ્ચ સપાટી તાપમાન (LST)",
+      "lowVegetation": "ઓછી વનસ્પતિ / વૃક્ષોનો અભાવ",
+      "traffic": "ભારે ટ્રાફિક ભીડ",
+      "builtUp": "કોંક્રીટ ઇમારતો",
+      "lowWind": "ઓછો પવન",
+      "aqi": "પ્રદૂષણ કણો"
+    }
+  },
+  "simulator": {
+    "title": "શહેરી આયોજન માઇક્રોક્લાઇમેટ સિમ્યુલેટર",
+    "subtitle": "હસ્તક્ષેપનું અનુકરણ કરો અને તાપમાન તેમજ કાર્બન ઘટાડો ચકાસો",
+    "currentCity": "વર્તમાન સ્થિતિ",
+    "simulatedCity": "સિમ્યુલેટેડ શહેર",
+    "treeCover": "વૃક્ષારોપણ વધારો",
+    "coolRoofs": "કૂલ રૂફ્સ",
+    "solarShading": "છાંયડાવાળા રસ્તા",
+    "trafficReduction": "ટ્રાફિક ઘટાડો",
+    "greenRoofs": "ગ્રીન છત",
+    "waterFeatures": "પાણીના ફુવારા",
+    "deltaRisk": "રિસ્કમાં ઘટાડો",
+    "deltaTemp": "અંદાજિત ઠંડક",
+    "deltaCarbon": "વાર્ષિક કાર્બન શોષણ"
+  },
+  "imageAnalysis": {
+    "title": "કમ્પ્યુટર વિઝન હીટ એક્સપોઝર વિશ્લેષક",
+    "subtitle": "રસ્તાના ફોટા પરથી સપાટી અને છાંયડાનું વિશ્લેષણ",
+    "uploadPrompt": "શહેરી રસ્તાનો ફોટો અપલોડ કરો",
+    "disclaimer": "નોંધ: કેમેરા સપાટીનું વિશ્લેષણ કરે છે, તાપમાન સીધું માપતો નથી.",
+    "visualExposureScore": "વિઝ્યુઅલ હીટ સ્કોર",
+    "treeCanopy": "વૃક્ષોનું આચ્છાદન",
+    "builtUp": "ઇમારતો",
+    "asphaltRoad": "ડામરના રસ્તા",
+    "shade": "છાંયડો",
+    "openSpace": "ખુલ્લી જગ્યા"
+  },
+  "chatbot": {
+    "title": "શહેરી ક્લાઇમેટ AI સહાયક",
+    "subtitle": "તાપમાન અને ઉપાયો અંગે પ્રશ્નો પૂછો",
+    "placeholder": "દા.ત., 'નેરુલ કેમ વધુ ગરમ છે?'",
+    "send": "મોકલો",
+    "contextHeader": "સેન્સર માહિતી"
+  },
+  "actions": {
+    "selectLocation": "વિસ્તાર પસંદ કરો",
+    "applyIntervention": "સિમ્યુલેશન લાગુ કરો",
+    "reset": "રીસેટ",
+    "exportReport": "અહેવાલ ડાઉનલોડ",
+    "viewDetails": "વિગતો જુઓ",
+    "close": "બંધ કરો"
+  }
+}

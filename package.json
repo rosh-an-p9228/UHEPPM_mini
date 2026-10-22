@@ -1,0 +1,13 @@
+{
+  "name": "urbanheat-ai",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Urban Heat Entrapment Prediction and Prevention Model",
+  "scripts": {
+    "start": "python run_website.py",
+    "dev": "python run_website.py",
+    "run": "python run_website.py",
+    "backend": "python -m uvicorn backend.app.main:app --host 127.0.0.1 --port 8000 --reload",
+    "frontend": "cd frontend && npm run dev"
+  }
+}

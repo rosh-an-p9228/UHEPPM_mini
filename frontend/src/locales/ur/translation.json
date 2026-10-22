@@ -1,0 +1,119 @@
+{
+  "brand": {
+    "name": "UrbanHeat AI",
+    "title": "شہری حرارت کے پھنسنے کی پیشن گوئی اور روک تھام کا ماڈل",
+    "tagline": "پیشن گوئی کریں۔ سمجھیں۔ شہری گرمی کو روکیں۔"
+  },
+  "nav": {
+    "landing": "ہوم",
+    "dashboard": "ڈیش بورڈ",
+    "heatmap": "GIS ہیٹ میپ",
+    "weather": "براہ راست موسم",
+    "satellite": "سیٹلائٹ LST",
+    "greencover": "سبز احاطہ / NDVI",
+    "population": "آبادی اور تعمیرات",
+    "traffic": "ٹریفک کی حرارت",
+    "pollution": "ہوا کا معیار",
+    "prediction": "AI پیشن گوئی",
+    "heatwave": "لو (ہیٹ ویو) کی پیشن گوئی",
+    "explainable": "وضاحتی AI (SHAP)",
+    "recommendations": "روک تھام کے اقدامات",
+    "simulator": "شہری منصوبہ بندی سمیلیٹر",
+    "imageAnalysis": "تصویری ہیٹ وژن",
+    "carbon": "کاربن میں کمی",
+    "vulnerability": "گرمی کی حساسیت",
+    "chatbot": "موسمیاتی AI معاون",
+    "alerts": "انتباہی مرکز",
+    "apiStatus": "API حیثیت",
+    "methodology": "طریقہ کار"
+  },
+  "status": {
+    "live": "براہ راست سلسلہ",
+    "satelliteObservation": "تازہ ترین دستیاب سیٹلائٹ مشاہدہ",
+    "populationEstimate": "آبادی کی کثافت کا تخمینہ",
+    "trafficHeatEstimate": "ٹریفک کی حرارت کے تخمینے کا حصہ",
+    "modelScenario": "ماڈل پر مبنی تخمینہ",
+    "demoMode": "ڈیمو موڈ فعال",
+    "demoBanner": "API کیز دستیاب نہیں ہیں۔ ممبئی / نوی ممبئی کے لیے سمولیٹڈ ڈیٹا دکھایا جا رہا ہے۔"
+  },
+  "risk": {
+    "safe": "محفوظ",
+    "moderate": "معتدل",
+    "high": "زیادہ",
+    "extreme": "انتہائی خطرناک",
+    "heatRiskIndex": "شہری ہیٹ رسک انڈیکس",
+    "urbanHeatProfile": "شہری ہیٹ پروفائل"
+  },
+  "metrics": {
+    "currentTemp": "موجودہ درجہ حرارت",
+    "predictedTemp": "پیشن گوئی کردہ درجہ حرارت",
+    "heatRisk": "ہیٹ رسک انڈیکس",
+    "lst": "سطحی درجہ حرارت (LST)",
+    "ndvi": "نباتات کا انڈیکس (NDVI)",
+    "greenCover": "سبزہ",
+    "trafficCongestion": "ٹریفک کا دباؤ",
+    "airQuality": "ہوا کے معیار کا انڈیکس (AQI)",
+    "popDensity": "آبادی کی کثافت",
+    "humidity": "نمی",
+    "wind": "ہوا کی رفتار",
+    "uvIndex": "UV انڈیکس",
+    "pressure": "ہوا کا دباؤ",
+    "precipitation": "بارش",
+    "co2Savings": "کاربن میں کمی"
+  },
+  "xai": {
+    "title": "یہ علاقہ اتنا گرم کیوں ہے؟",
+    "subtitle": "SHAP فیچر کنٹریبیوشن کا تجزیہ",
+    "explanationLabel": "AI سائنسی وضاحت",
+    "factors": {
+      "surfaceTemp": "سطح کا زیادہ درجہ حرارت (LST)",
+      "lowVegetation": "درختوں اور سبزے کی کمی",
+      "traffic": "بھاری ٹریفک کا رش",
+      "builtUp": "کنکریٹ کی عمارتیں",
+      "lowWind": "ہوا کا کم بہاؤ",
+      "aqi": "آلودگی کے ذرات"
+    }
+  },
+  "simulator": {
+    "title": "شہری منصوبہ بندی مائیکرو آب و ہوا سمیلیٹر",
+    "subtitle": "شہری اقدامات کی نقل کریں اور درجہ حرارت اور کاربن میں کمی کا جائزہ لیں",
+    "currentCity": "موجودہ شہر",
+    "simulatedCity": "سمولیٹڈ شہر",
+    "treeCover": "شجرکاری میں اضافہ",
+    "coolRoofs": "کول روفس",
+    "solarShading": "سایہ دار راستے",
+    "trafficReduction": "ٹریفک میں کمی",
+    "greenRoofs": "سبز چھتیں",
+    "waterFeatures": "پانی کے فوارے",
+    "deltaRisk": "خطرے میں کمی",
+    "deltaTemp": "ٹھنڈک کا تخمینہ",
+    "deltaCarbon": "سالانہ کاربن کا اخراج کم"
+  },
+  "imageAnalysis": {
+    "title": "کمپیوٹر وژن ہیٹ ایکسپوژر تجزیہ کار",
+    "subtitle": "سڑک کی تصاویر سے سطح اور سائے کا سائنسی تجزیہ",
+    "uploadPrompt": "سڑک یا شہری علاقے کی تصویر اپ لوڈ کریں",
+    "disclaimer": "نوٹ: کیمرہ سطح کا تخمینہ لگاتا ہے، درجہ حرارت براہ راست نہیں ناپتا۔",
+    "visualExposureScore": "بصری ہیٹ اسکور",
+    "treeCanopy": "درخت",
+    "builtUp": "عمارتیں",
+    "asphaltRoad": "سڑکیں",
+    "shade": "سایہ",
+    "openSpace": "کھلی جگہ"
+  },
+  "chatbot": {
+    "title": "شہری موسمیاتی AI معاون",
+    "subtitle": "درجہ حرارت اور حل کے بارے میں سوالات پوچھیں",
+    "placeholder": "مثال: 'نیرول میں گرمی کیوں زیادہ ہے؟'",
+    "send": "ارسال کریں",
+    "contextHeader": "سینسر کی معلومات"
+  },
+  "actions": {
+    "selectLocation": "علاقہ منتخب کریں",
+    "applyIntervention": "سمولیشن نافذ کریں",
+    "reset": "دوبارہ ترتیب دیں",
+    "exportReport": "رپورٹ ڈاؤن لوڈ",
+    "viewDetails": "تفصیلات دیکھیں",
+    "close": "بند کریں"
+  }
+}

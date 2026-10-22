@@ -1,0 +1,119 @@
+{
+  "brand": {
+    "name": "UrbanHeat AI",
+    "title": "Urban Heat Entrapment Prediction & Prevention Model",
+    "tagline": "Predict. Understand. Prevent Urban Heat."
+  },
+  "nav": {
+    "landing": "Home",
+    "dashboard": "Overview",
+    "heatmap": "GIS Heat Map",
+    "weather": "Live Weather",
+    "satellite": "Satellite LST",
+    "greencover": "Green Cover / NDVI",
+    "population": "Population & Built-Up",
+    "traffic": "Traffic Heat",
+    "pollution": "Air Quality",
+    "prediction": "AI Prediction",
+    "heatwave": "Heatwave Forecast",
+    "explainable": "Explainable AI (SHAP)",
+    "recommendations": "Mitigation Actions",
+    "simulator": "Urban Planning Simulator",
+    "imageAnalysis": "Image Heat Vision",
+    "carbon": "Carbon Reduction",
+    "vulnerability": "Heat Vulnerability",
+    "chatbot": "Climate AI Assistant",
+    "alerts": "Alert Center",
+    "apiStatus": "API Telemetry",
+    "methodology": "Methodology"
+  },
+  "status": {
+    "live": "Near-Real-Time Stream",
+    "satelliteObservation": "Latest Available Satellite Observation",
+    "populationEstimate": "Population Density Estimate (WorldPop)",
+    "trafficHeatEstimate": "Estimated Traffic Heat Contribution",
+    "modelScenario": "Model-Based Scenario Estimate",
+    "demoMode": "Demo / Simulated Dataset Active",
+    "demoBanner": "API keys not configured. Displaying high-fidelity simulated urban sensor data for Navi Mumbai & Mumbai Metropolitan Region."
+  },
+  "risk": {
+    "safe": "SAFE",
+    "moderate": "MODERATE",
+    "high": "HIGH",
+    "extreme": "EXTREME",
+    "heatRiskIndex": "Urban Heat Risk Index",
+    "urbanHeatProfile": "Urban Heat Profile"
+  },
+  "metrics": {
+    "currentTemp": "Current Temperature",
+    "predictedTemp": "Predicted Temperature",
+    "heatRisk": "Heat Risk Index",
+    "lst": "Land Surface Temp (LST)",
+    "ndvi": "NDVI Vegetation Index",
+    "greenCover": "Green Canopy Cover",
+    "trafficCongestion": "Traffic Congestion",
+    "airQuality": "Air Quality Index (AQI)",
+    "popDensity": "Population Density",
+    "humidity": "Humidity",
+    "wind": "Wind Speed",
+    "uvIndex": "UV Index",
+    "pressure": "Atmospheric Pressure",
+    "precipitation": "Rainfall",
+    "co2Savings": "Estimated CO2 Reduction"
+  },
+  "xai": {
+    "title": "Why Is This Area Hot?",
+    "subtitle": "SHAP (SHapley Additive exPlanations) Local Feature Attribution",
+    "explanationLabel": "AI Scientific Explanation",
+    "factors": {
+      "surfaceTemp": "High Surface Temperature (LST)",
+      "lowVegetation": "Low Vegetation / Deficient Canopy",
+      "traffic": "Heavy Vehicular Congestion",
+      "builtUp": "Dense Concrete / Built-up Surface",
+      "lowWind": "Stagnant Wind / Air Entrapment",
+      "aqi": "Aerosol & Particulate Entrapment"
+    }
+  },
+  "simulator": {
+    "title": "Urban Planning Microclimate Simulator",
+    "subtitle": "Simulate municipal interventions and evaluate microclimate impact & carbon offsets",
+    "currentCity": "Current Urban Baseline",
+    "simulatedCity": "Simulated Post-Intervention",
+    "treeCover": "Urban Tree Canopy Addition",
+    "coolRoofs": "High-Albedo Cool Roofs",
+    "solarShading": "Pedestrian Solar Shading",
+    "trafficReduction": "Vehicular Traffic Diversion",
+    "greenRoofs": "Rooftop Greenery (Green Roofs)",
+    "waterFeatures": "Urban Water Corridors & Misting",
+    "deltaRisk": "Heat Risk Reduction",
+    "deltaTemp": "Surface Cooling Estimate",
+    "deltaCarbon": "Annual Carbon Sequestration"
+  },
+  "imageAnalysis": {
+    "title": "Computer Vision Street Heat Exposure Estimator",
+    "subtitle": "Segment urban surface materials, shade, and canopy density to compute visual heat entrapment risk",
+    "uploadPrompt": "Drag & Drop or Click to upload Street / Urban Image",
+    "disclaimer": "Note: RGB cameras estimate surface composition & shade coverage. They do not directly measure thermal radiation.",
+    "visualExposureScore": "Visual Heat Exposure Score",
+    "treeCanopy": "Tree Canopy",
+    "builtUp": "Concrete & Buildings",
+    "asphaltRoad": "Asphalt Roads",
+    "shade": "Shaded Surfaces",
+    "openSpace": "Open Ground"
+  },
+  "chatbot": {
+    "title": "Urban Climate Intelligence AI Assistant",
+    "subtitle": "Ask questions regarding localized microclimates, mitigation strategies, and forecast factors",
+    "placeholder": "Ask e.g., 'Why is Nerul hotter than CBD Belapur?' or 'What intervention reduces risk fastest?'",
+    "send": "Send Query",
+    "contextHeader": "Active Sensor Context"
+  },
+  "actions": {
+    "selectLocation": "Select Urban Sector",
+    "applyIntervention": "Apply Simulation",
+    "reset": "Reset to Default",
+    "exportReport": "Export Climate Report",
+    "viewDetails": "Inspect Telemetry",
+    "close": "Close Panel"
+  }
+}

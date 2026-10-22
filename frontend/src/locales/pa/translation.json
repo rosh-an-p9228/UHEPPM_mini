@@ -1,0 +1,119 @@
+{
+  "brand": {
+    "name": "UrbanHeat AI",
+    "title": "ਸ਼ਹਿਰੀ ਗਰਮੀ ਫਸਣ ਦੀ ਭਵਿੱਖਬਾਣੀ ਅਤੇ ਰੋਕਥਾਮ ਮਾਡਲ",
+    "tagline": "ਭਵਿੱਖਬਾਣੀ ਕਰੋ। ਸਮਝੋ। ਸ਼ਹਿਰੀ ਗਰਮੀ ਰੋਕੋ।"
+  },
+  "nav": {
+    "landing": "ਮੁੱਖ ਪੰਨਾ",
+    "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+    "heatmap": "GIS ਹੀਟ ਮੈਪ",
+    "weather": "ਲਾਈਵ ਮੌਸਮ",
+    "satellite": "ਸੈਟੇਲਾਈਟ LST",
+    "greencover": "ਹਰਾ ਘੇਰਾ / NDVI",
+    "population": "ਆਬਾਦੀ ਅਤੇ ਉਸਾਰੀ",
+    "traffic": "ਟ੍ਰੈਫਿਕ ਗਰਮੀ",
+    "pollution": "ਹਵਾ ਦੀ ਗੁਣਵੱਤਾ",
+    "prediction": "AI ਭਵਿੱਖਬਾਣੀ",
+    "heatwave": "ਹੀਟਵੇਵ ਭਵਿੱਖਬਾਣੀ",
+    "explainable": "ਵਿਆਖਿਆਤਮਕ AI (SHAP)",
+    "recommendations": "ਰੋਕਥਾਮ ਕਾਰਵਾਈਆਂ",
+    "simulator": "ਸ਼ਹਿਰੀ ਯੋਜਨਾਬੰਦੀ ਸਿਮੂਲੇਟਰ",
+    "imageAnalysis": "ਚਿੱਤਰ ਹੀਟ ਵਿਜ਼ਨ",
+    "carbon": "ਕਾਰਬਨ ਕਟੌਤੀ",
+    "vulnerability": "ਗਰਮੀ ਸੰਵੇਦਨਸ਼ੀਲਤਾ",
+    "chatbot": "ਜਲਵਾਯੂ AI ਸਹਾਇਕ",
+    "alerts": "ਚੇਤਾਵਨੀ ਕੇਂਦਰ",
+    "apiStatus": "API ਸਥਿਤੀ",
+    "methodology": "ਕਾਰਜਪ੍ਰਣਾਲੀ"
+  },
+  "status": {
+    "live": "ਲਾਈਵ ਡਾਟਾ",
+    "satelliteObservation": "ਤਾਜ਼ਾ ਸੈਟੇਲਾਈਟ ਨਿਰੀਖਣ",
+    "populationEstimate": "ਆਬਾਦੀ ਘਣਤਾ ਅੰਦਾਜ਼ਾ",
+    "trafficHeatEstimate": "ਅੰਦਾਜ਼ਨ ਟ੍ਰੈਫਿਕ ਗਰਮੀ ਯੋਗਦਾਨ",
+    "modelScenario": "ਮਾਡਲ ਆਧਾਰਿਤ ਅੰਦਾਜ਼ਾ",
+    "demoMode": "ਡੈਮੋ ਮੋਡ ਸਰਗਰਮ",
+    "demoBanner": "API ਕੁੰਜੀਆਂ ਉਪਲਬਧ ਨਹੀਂ ਹਨ। ਸਿਮੂਲੇਟਿਡ ਡਾਟਾ ਦਿਖਾਇਆ ਜਾ ਰਿਹਾ ਹੈ।"
+  },
+  "risk": {
+    "safe": "ਸੁਰੱਖਿਅਤ",
+    "moderate": "ਦਰਮਿਆਨਾ",
+    "high": "ਉੱਚ",
+    "extreme": "ਬਹੁਤ ਗੰਭੀਰ",
+    "heatRiskIndex": "ਹੀਟ ਰਿਸਕ ਇੰਡੈਕਸ",
+    "urbanHeatProfile": "ਸ਼ਹਿਰੀ ਗਰਮੀ ਪ੍ਰੋਫਾਈਲ"
+  },
+  "metrics": {
+    "currentTemp": "ਮੌਜੂਦਾ ਤਾਪਮਾਨ",
+    "predictedTemp": "ਅੰਦਾਜ਼ਨ ਤਾਪਮਾਨ",
+    "heatRisk": "ਹੀਟ ਰਿਸਕ ਇੰਡੈਕਸ",
+    "lst": "ਸਤ੍ਹਾ ਦਾ ਤਾਪਮਾਨ (LST)",
+    "ndvi": "ਬਨਸਪਤੀ ਸੂਚਕਾਂਕ (NDVI)",
+    "greenCover": "ਹਰਾ ਖੇਤਰ",
+    "trafficCongestion": "ਟ੍ਰੈਫਿਕ ਜਾਮ",
+    "airQuality": "ਹਵਾ ਗੁਣਵੱਤਾ ਸੂਚਕਾਂਕ (AQI)",
+    "popDensity": "ਆਬਾਦੀ ਘਣਤਾ",
+    "humidity": "ਨਮੀ",
+    "wind": "ਹਵਾ ਦੀ ਰਫ਼ਤਾਰ",
+    "uvIndex": "UV ਇੰਡੈਕਸ",
+    "pressure": "ਹਵਾ ਦਾ ਦਬਾਅ",
+    "precipitation": "ਮੀਂਹ",
+    "co2Savings": "ਕਾਰਬਨ ਕਟੌਤੀ"
+  },
+  "xai": {
+    "title": "ਇਹ ਖੇਤਰ ਇੰਨਾ ਗਰਮ ਕਿਉਂ ਹੈ?",
+    "subtitle": "SHAP ਵਿਸ਼ੇਸ਼ਤਾ ਯੋਗਦਾਨ ਵਿਸ਼ਲੇਸ਼ਣ",
+    "explanationLabel": "AI ਵਿਗਿਆਨਕ ਵਿਆਖਿਆ",
+    "factors": {
+      "surfaceTemp": "ਉੱਚ ਸਤ੍ਹਾ ਤਾਪਮਾਨ (LST)",
+      "lowVegetation": "ਘੱਟ ਰੁੱਖ ਅਤੇ ਬਨਸਪਤੀ",
+      "traffic": "ਭਾਰੀ ਟ੍ਰੈਫਿਕ",
+      "builtUp": "ਕੰਕਰੀਟ ਦੀਆਂ ਇਮਾਰਤਾਂ",
+      "lowWind": "ਘੱਟ ਹਵਾ",
+      "aqi": "ਪ੍ਰਦੂਸ਼ਣ ਕਣ"
+    }
+  },
+  "simulator": {
+    "title": "ਸ਼ਹਿਰੀ ਯੋਜਨਾਬੰਦੀ ਮਾਈਕ੍ਰੋਕਲਾਈਮੇਟ ਸਿਮੂਲੇਟਰ",
+    "subtitle": "ਕਦਮਾਂ ਦੀ ਪਰਖ ਕਰੋ ਅਤੇ ਤਾਪਮਾਨ ਤੇ ਕਾਰਬਨ ਘਟਣ ਦੀ ਜਾਂਚ ਕਰੋ",
+    "currentCity": "ਮੌਜੂਦਾ ਸ਼ਹਿਰ",
+    "simulatedCity": "ਸਿਮੂਲੇਟਿਡ ਸ਼ਹਿਰ",
+    "treeCover": "ਰੁੱਖ ਲਗਾਉਣਾ ਵਾਧਾ",
+    "coolRoofs": "ਕੂਲ ਰੂਫਸ",
+    "solarShading": "ਛਾਂਦਾਰ ਰਸਤੇ",
+    "trafficReduction": "ਟ੍ਰੈਫਿਕ ਕਟੌਤੀ",
+    "greenRoofs": "ਹਰੀਆਂ ਛੱਤਾਂ",
+    "waterFeatures": "ਪਾਣੀ ਦੇ ਫੁਹਾਰੇ",
+    "deltaRisk": "ਜੋਖਮ ਕਟੌਤੀ",
+    "deltaTemp": "ਠੰਢਕ ਅੰਦਾਜ਼ਾ",
+    "deltaCarbon": "ਸਾਲਾਨਾ ਕਾਰਬਨ ਕਟੌਤੀ"
+  },
+  "imageAnalysis": {
+    "title": "ਕੰਪਿਊਟਰ ਵਿਜ਼ਨ ਹੀਟ ਐਕਸਪੋਜ਼ਰ ਵਿਸ਼ਲੇਸ਼ਕ",
+    "subtitle": "ਸੜਕਾਂ ਦੀਆਂ ਤਸਵੀਰਾਂ ਤੋਂ ਸਤ੍ਹਾ ਅਤੇ ਛਾਂ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ",
+    "uploadPrompt": "ਗਲੀ ਜਾਂ ਸ਼ਹਿਰੀ ਖੇਤਰ ਦੀ ਤਸਵੀਰ ਅੱਪਲੋਡ ਕਰੋ",
+    "disclaimer": "ਨੋਟ: ਕੈਮਰਾ ਸਤ੍ਹਾ ਦਾ ਅੰਦਾਜ਼ਾ ਲਗਾਉਂਦਾ ਹੈ, ਸਿੱਧਾ ਤਾਪਮਾਨ ਨਹੀਂ ਮਾਪਦਾ।",
+    "visualExposureScore": "ਵਿਜ਼ੂਅਲ ਹੀਟ ਸਕੋਰ",
+    "treeCanopy": "ਰੁੱਖਾਂ ਦਾ ਘੇਰਾ",
+    "builtUp": "ਇਮਾਰਤਾਂ",
+    "asphaltRoad": "ਲੁੱਕ ਵਾਲੀਆਂ ਸੜਕਾਂ",
+    "shade": "ਛਾਂ",
+    "openSpace": "ਖੁੱਲ੍ਹੀ ਥਾਂ"
+  },
+  "chatbot": {
+    "title": "ਸ਼ਹਿਰੀ ਜਲਵਾਯੂ AI ਸਹਾਇਕ",
+    "subtitle": "ਤਾਪਮਾਨ ਅਤੇ ਹੱਲਾਂ ਬਾਰੇ ਪੁੱਛੋ",
+    "placeholder": "ਉਦਾਹਰਨ: 'ਨੇਰੂਲ ਕਿਉਂ ਜ਼ਿਆਦਾ ਗਰਮ ਹੈ?'",
+    "send": "ਭੇਜੋ",
+    "contextHeader": "ਸੈਂਸਰ ਜਾਣਕਾਰੀ"
+  },
+  "actions": {
+    "selectLocation": "ਖੇਤਰ ਚੁਣੋ",
+    "applyIntervention": "ਸਿਮੂਲੇਸ਼ਨ ਲਾਗੂ ਕਰੋ",
+    "reset": "ਰੀਸੈਟ",
+    "exportReport": "ਰਿਪੋਰਟ ਡਾਊਨਲੋਡ",
+    "viewDetails": "ਵੇਰਵੇ ਦੇਖੋ",
+    "close": "ਬੰਦ ਕਰੋ"
+  }
+}
